@@ -1,5 +1,5 @@
 # Notice
-* **NOTE: As of July 23 2022, All steam workshop based mod collections has been moved to EnhancedMod Forgery project.
+* **NOTE: As of July 23 2022, All steam workshop based mod collections has been moved to EnhancedMod Forgery project.**
 * **NOTE #2: EnhancedMod Classic has been merged with main EnhancedMod repository.**
 
 # EnhancedMod Forgery
