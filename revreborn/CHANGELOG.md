@@ -1,4 +1,69 @@
 # Changelog
+## Revengeance Reborn 8.0-publicbeta1 (Fatal Vengeance) (July 24, 2022)
+![Sad Night](https://steamuserimages-a.akamaihd.net/ugc/1684870966108378415/E7D98A6ADA3CAC89EEF4F2C00E63CA86ADCF7F2F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false)
+Surprise! We are happy to announce that Revengeance Reborn is now on Public Beta! That means everyone is okay to test the mod, as the Revengeance Reborn's structure is now mostly finalized.
+There will be no changes to the modpack from now on unless there is critical bug that needs to be addressed.
+
+### Features
+* **Revengeance Reborn is now on public beta!** We plan to release this mod on September 24, 2022 as we planned. There will be also updates planned for other EnhancedMod Forgery projects.
+* **We decided to bring back the Enhanced Audio and UI Sound mod by Frawzy sound except Items and Weapons, explosion sounds.** 600+ Sounds doesn't use original sound and brought from several games, we decided to replace them with completely original sounds made by Frawzy.
+* HUD has been reverted to original L4D2 hud.
+* Cleaned up several unnecessary mods.
+
+### Known issues
+* **Static noise when specific sound plays.** - Unfortunately, this bug cannot be fixed on our side. Instead you can fix manually by opening the console with '`' key (Be sure to enable developer console in settings first), type 'snd_rebuildaudiocache;snd_updateaudiocache;quit' then restart the game. Hopefully this should solve your issues.
+
+### Mod list changes
+#### Added
+* [[VScripts] Library of Utils](https://steamcommunity.com/sharedfiles/filedetails/?id=2821408044)
+* [Azure Night - The Last Stand Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=2373373116)
+* [Dynamic Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2261165699)
+* [Enhanced Audio: Water](https://steamcommunity.com/sharedfiles/filedetails/?id=497349174)
+* [Enhanced Audio: Wind](https://steamcommunity.com/sharedfiles/filedetails/?id=497709684)
+* [Enhanced Audio: Weather](https://steamcommunity.com/sharedfiles/filedetails/?id=504925284)
+* [Enhanced Audio: Fire](https://steamcommunity.com/sharedfiles/filedetails/?id=517929903)
+* [Enhanced Audio: Footsteps](https://steamcommunity.com/sharedfiles/filedetails/?id=647362384)
+* [Enhanced Audio: Electricity](https://steamcommunity.com/sharedfiles/filedetails/?id=647362853)
+* [Enhanced Audio: Gore](https://steamcommunity.com/sharedfiles/filedetails/?id=647363117)
+* [Enhanced Audio: Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=694407870)
+* [Enhanced Audio: Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=522667160)
+* [Left 4 Dead 2 Reborn Color Correction Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1923337121)
+* [Melee Weapon Grunts](https://steamcommunity.com/sharedfiles/filedetails/?id=2384102797)
+* [New UI Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=634277460)
+* [Reworked Heads-Up Display](https://steamcommunity.com/sharedfiles/filedetails/?id=1206291369)
+* [Reworked HUD - Teammate Panel](https://steamcommunity.com/sharedfiles/filedetails/?id=1351022196)
+
+#### Removed
+* [600+ Sounds (Ambience Pt. 1)](https://steamcommunity.com/sharedfiles/filedetails/?id=533814402)
+* [600+ Sounds (Ambience Pt. 2) (Fixed)](https://steamcommunity.com/sharedfiles/filedetails/?id=2270317328)
+* [600+ Sounds (Cinematics)](https://steamcommunity.com/sharedfiles/filedetails/?id=533175868)
+* [Alternative UI Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2301244156)
+* [All Prop Fix mods except 'Prop Fix Pack (50+ models)' and 'Improved Medkit Model'](https://steamcommunity.com/workshop/filedetails/?id=2026315946)
+* [Corrected Nav](https://steamcommunity.com/sharedfiles/filedetails/?id=2499746899)
+* [Correction to Population](https://steamcommunity.com/sharedfiles/filedetails/?id=2469371883)
+* [Extended Common Infected](https://steamcommunity.com/sharedfiles/filedetails/?id=2291140471)
+* [Guitar signed by Midnight Riders / From Contest Event 2010](https://steamcommunity.com/sharedfiles/filedetails/?id=2800118176)
+* [L4D1 Tank Randomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2582010491)
+* [L4D2 Tank Randomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2581177751)
+* [Morning - Dead Center Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1921799030)
+* [Early Dawn - The Passing Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1921825251)
+* [Morning - Dark Carnival Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1921826688)
+* [Purple Haze "Light" - Swamp Fever Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1096927734)
+* [Late Afternoon Hard Rain Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1095774138)
+* [Blue Skies Parish Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1097812105)
+* [Midnight - No Mercy Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1923073208)
+* [Cobalt Sky Death Toll Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1192112008)
+* [Sapphire Night Dead Air Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1098014622)
+* [Autumn Air Blood Harvest Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1099944288)
+* [Air of Dread Sacrifice Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=1194182635)
+* [Midnight - The Last Stand Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=2289240722)
+* [The Last Stand Big Reward Sound Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2246218922)
+* [[Anti-Troll] Troll Healer Rejector](https://steamcommunity.com/sharedfiles/filedetails/?id=2787900865)
+* [[Support] Unclosable Checkpoint Door](https://steamcommunity.com/sharedfiles/filedetails/?id=2517662114)
+* [cif_tanktop_jeans_swamp fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2631089706)
+* [Metal Horde Theme](https://steamcommunity.com/sharedfiles/filedetails/?id=2119786365)
+* [Mini vHUD](https://steamcommunity.com/sharedfiles/filedetails/?id=2821651400)
+
 ## Revengeance Reborn 8.0-experimental5 (Fatal Vengeance) (July 11, 2022)
 ![Suicide Blitz 2](https://steamuserimages-a.akamaihd.net/ugc/267220742938471940/C97805447A580894EAC131BEEC38ABF17C1B0C39/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false)
 This update might one of best overhaul in Reborn series history - featuring [Realistic FX Pack](https://steamcommunity.com/workshop/filedetails/?id=2832141553), and fresh new custom campaigns! Welcome to the yet another modern L4D2 experience.
