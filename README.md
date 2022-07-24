@@ -34,7 +34,6 @@ These collections will be deprecated, and then privated in the near future due t
 
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
-* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
