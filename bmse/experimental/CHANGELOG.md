@@ -10,11 +10,12 @@ This will be the last experimental release for 4.0 version, unless there is crit
 ### Mod changes
 #### Added
 * [Further Data](https://steamcommunity.com/sharedfiles/filedetails/?id=2316239201)
-* [MesaMenuMod - startup menus](https://steamcommunity.com/sharedfiles/filedetails/?id=2838933401)
+* [MesaMenuMod - startup menus](https://steamcommunity.com/sharedfiles/filedetails/?id=2838933401
 * [Pre-1.0 Styled Flashlight](https://steamcommunity.com/sharedfiles/filedetails/?id=2806533204)
 
 #### Removed
 * [New Music For Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2606454915)
+* [More Monitors Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2109211965) (Causes crash with Further Data, includes real-life components not from Half-Life universes)
 
 ## Black Mesa: Enhanced Experimental 4.0-experimental1 [Jun 17, 2022]
 After long hiatus due to Roon's final exam, now we are back with new changelog system!
