@@ -1,4 +1,21 @@
 # Changelog
+## Black Mesa: Enhanced Experimental 4.0-experimental2 [Jun 30, 2022]
+This will be the last experimental release for 4.0 version, unless there is critical issue that needs to be addressed.
+
+### Features
+* New campaign: Further Data - Further Data is the remake of Half-Life: Uplink, Valve's demo version of Half-Life. You can now play this campaign on your Steam Workshop menu. If you are using old UI, simply type `map fd01` on console.
+* New main menu sound, which is the completely original song created by ImmaculatePontiac.
+* Flashlight in HEV Suit has been adjusted to be more bright
+
+### Mod changes
+#### Added
+* [Further Data](https://steamcommunity.com/sharedfiles/filedetails/?id=2316239201)
+* [MesaMenuMod - startup menus](https://steamcommunity.com/sharedfiles/filedetails/?id=2838933401)
+* [Pre-1.0 Styled Flashlight](https://steamcommunity.com/sharedfiles/filedetails/?id=2806533204)
+
+#### Removed
+* [New Music For Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2606454915)
+
 ## Black Mesa: Enhanced Experimental 4.0-experimental1 [Jun 17, 2022]
 After long hiatus due to Roon's final exam, now we are back with new changelog system!
 From now on, all changelog will be recorded on this github page, so don't forget to check out for update!
