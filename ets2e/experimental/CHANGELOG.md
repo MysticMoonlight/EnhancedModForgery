@@ -1,4 +1,17 @@
 # Changelog
+## ETS2: Enhanced 45.0-prerelease1 (Farsala) [August 1, 2022]
+Nothing new, this update exists to clean up something. This update might be the last experimental release unless there is issue that needs to be addressed.
+
+### Mod Changes
+#### Removed
+* [Interior Light & Emblems](https://steamcommunity.com/sharedfiles/filedetails/?id=2624828551) (No longer necessary due to SiSL's Mega Pack already have same function)
+* [Realistic Signs](https://steamcommunity.com/sharedfiles/filedetails/?id=1664436696) (Conflicts with other map mods)
+* [Smaller Dead End Barriers](https://steamcommunity.com/sharedfiles/filedetails/?id=1887054414) (Removed due to addition of hide road end marker settings)
+* [Street Lamps - Without fog](https://steamcommunity.com/sharedfiles/filedetails/?id=2632156792) (Conflicts with other graphic mods)
+* [Dashboard Brightness](https://steamcommunity.com/sharedfiles/filedetails/?id=1987056612) (Removed due to conflict with other interiors mod)
+* [Real Ai Traffic Sounds ETS2 (FMOD)](https://steamcommunity.com/sharedfiles/filedetails/?id=2229578154) (Removed due to unrealistic feel of the mod)
+* [DAF XG-XG+ Improved Dashboard](https://steamcommunity.com/sharedfiles/filedetails/?id=2582563711) (Removed due to unrealistic feel of the mod)
+
 ## ETS2: Enhanced 45.0-experimental2 (Farsala) [June 18, 2022]
 Now it's time for bigger update for ETS2: Enhanced! This update includes some tidying up, 
 

@@ -1,4 +1,14 @@
 # Changelog
+## ATS: Enhanced 45.0-prerelease1 (Fort Collins) [August 1, 2022]
+Nothing new, this update exists to clean up something. This update might be the last experimental release unless there is issue that needs to be addressed.
+
+### Mod Changes
+#### Removed
+* [Smaller Dead End Barriers](https://steamcommunity.com/sharedfiles/filedetails/?id=1886848466) (Removed due to addition of hide road end marker settings)
+* [Real Ai Traffic FMOD Sounds ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=1545800116) (Removed due to unrealistic feel of the mod)
+* [HPS Orange Street Lighting](https://steamcommunity.com/sharedfiles/filedetails/?id=2381826625) (Conflicts with other graphic mods)
+
+
 ## ATS: Enhanced 45.0-experimental2 (Fort Collins) [June 18, 2022]
 This time experimental2 has lack of updates for ATS: Enhanced because there was already had a big update from ATS: Enhanced 45.0-2022.20a. For this update, you can consider like tidying up some stuff this time!
 
