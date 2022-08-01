@@ -7,7 +7,7 @@ Nothing new, this update exists to clean up something. This update might be the 
 * [Smaller Dead End Barriers](https://steamcommunity.com/sharedfiles/filedetails/?id=1886848466) (Removed due to addition of hide road end marker settings)
 * [Real Ai Traffic FMOD Sounds ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=1545800116) (Removed due to unrealistic feel of the mod)
 * [HPS Orange Street Lighting](https://steamcommunity.com/sharedfiles/filedetails/?id=2381826625) (Conflicts with other graphic mods)
-
+* [Dashboard Brightness](https://steamcommunity.com/sharedfiles/filedetails/?id=2129583795) (Removed due to conflict with other interiors mod)
 
 ## ATS: Enhanced 45.0-experimental2 (Fort Collins) [June 18, 2022]
 This time experimental2 has lack of updates for ATS: Enhanced because there was already had a big update from ATS: Enhanced 45.0-2022.20a. For this update, you can consider like tidying up some stuff this time!
