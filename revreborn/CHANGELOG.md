@@ -1,4 +1,16 @@
 # Changelog
+## Revengeance Reborn 8.0-publicbeta2 (Fatal Vengeance) (August 7, 2022)
+Don't expect on this update, as we announced we are just going to fix something if there is issue related to specific add-ons.
+This update simply removes Dynamic Light and related library add-on due to [frequent crashes reported by several players](https://steamcommunity.com/workshop/filedetails/discussion/2261165699/3196988242380706745/).
+
+### Features
+* Removed Dynamic Light and Libraries due to frequent crashes
+
+### Mod list changes
+#### Removed
+* [[VScripts] Library of Utils](https://steamcommunity.com/workshop/filedetails/?id=2821408044)
+* [Dynamic Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2261165699)
+
 ## Revengeance Reborn 8.0-publicbeta1 (Fatal Vengeance) (July 24, 2022)
 ![Sad Night](https://steamuserimages-a.akamaihd.net/ugc/1684870966108378415/E7D98A6ADA3CAC89EEF4F2C00E63CA86ADCF7F2F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false)
 Surprise! We are happy to announce that Revengeance Reborn is now on Public Beta! That means everyone is okay to test the mod, as the Revengeance Reborn's structure is now mostly finalized.
