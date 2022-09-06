@@ -1,7 +1,3 @@
-# Notice
-* **NOTE: As of July 23 2022, All steam workshop based mod collections has been moved to EnhancedMod Forgery project.**
-* **NOTE #2: EnhancedMod Classic has been merged with main EnhancedMod repository.**
-
 # EnhancedMod Forgery
 EnhancedMod Forgery is a group of Steam Workshop based modpack project developed by Mystic Moonlight and community contributors.
 
@@ -16,8 +12,6 @@ EnhancedMod Forgery is one of fork from main EnhancedMod project due to Steam Wo
 
 # List of EnhancedMod Forgery projects
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
-* [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
-* [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
 * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) (Still Early Access)
 
@@ -34,10 +28,6 @@ These collections will be deprecated, and then privated in the near future due t
 
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
-* Truck Simulator: Enhanced
-   * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
-   * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
-   * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
    
 # Our Standards
 EnhancedMod Forgery's Standards follows the main EnhancedMod project's Project Standards. [You can read more here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md).
