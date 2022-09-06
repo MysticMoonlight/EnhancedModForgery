@@ -12,7 +12,6 @@ EnhancedMod Forgery is one of fork from main EnhancedMod project due to Steam Wo
 
 # List of EnhancedMod Forgery projects
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
-* [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) (Still Early Access)
 
 # List of planned projects
