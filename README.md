@@ -27,7 +27,6 @@ Warning: This branch is not very stable, and unexpected bugs and crashes may occ
 These collections will be deprecated, and then privated in the near future due to policy changes to EnhancedMod Forgery project.
 
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
-* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
    
 # Our Standards
 EnhancedMod Forgery's Standards follows the main EnhancedMod project's Project Standards. [You can read more here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md).
