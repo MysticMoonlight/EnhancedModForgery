@@ -13,6 +13,7 @@ EnhancedMod Forgery is one of fork from main EnhancedMod project due to Steam Wo
 # List of EnhancedMod Forgery projects
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
 * [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) (Still Early Access)
+* [112 Operator: Dark Reality](https://steamcommunity.com/sharedfiles/filedetails/?id=2815131733)
 
 # List of planned projects
 These are still on 'Working Title' and not still confirmed. If you have any better names for it please submit on our [discussion section](https://github.com/MysticMoonlight/EnhancedModForgery/discussions/1).
