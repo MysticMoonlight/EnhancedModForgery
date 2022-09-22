@@ -1,3 +1,6 @@
+# Notice
+**As of Sep 22 2022, Discussions, Projects and Issue Tracker is now served on individual collection's discussion tab. To report issue or post feedback, please proceed to individual collection's discussion tab.**
+
 # EnhancedMod Forgery
 EnhancedMod Forgery is a group of Steam Workshop based modpack project developed by Mystic Moonlight and community contributors.
 
