@@ -15,7 +15,7 @@ EnhancedMod Forgery is one of fork from main EnhancedMod project due to Steam Wo
 
 # List of EnhancedMod Forgery projects
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
-* [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) (Still Early Access)
+* [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)
 * [112 Operator: Dark Reality](https://steamcommunity.com/sharedfiles/filedetails/?id=2815131733)
 
 # List of planned projects
@@ -23,13 +23,6 @@ These are still on 'Working Title' and not still confirmed. If you have any bett
 * Obsidian Conflict: Multiverse Forever - The ~~jokingly~~ sequel of 'Sven Co-op: Multiverse Everyday'.
 * Half-Life 2: Recollection Reborn - Workshop version of Half-Life 2: Enhanced project.
 * Jabroni Brawl 3: Minigames Party - Workshop collection for Jabroni Brawl 3. Not confirmed if this will be on development (If it doesn't support workshop maybe answer might be a 'no')
-
-## Experimental Branch [Planned to be Deprecated]
-Warning: This branch is not very stable, and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
-
-These collections will be deprecated, and then privated in the near future due to policy changes to EnhancedMod Forgery project.
-
-* [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
    
 # Our Standards
 EnhancedMod Forgery's Standards follows the main EnhancedMod project's Project Standards. [You can read more here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md).
