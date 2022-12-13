@@ -1,5 +1,18 @@
 # Notice
-**As of Sep 22 2022, Discussions, Projects and Issue Tracker is now served on individual collection's discussion tab. To report issue or post feedback, please proceed to individual collection's discussion tab.**
+Hello everyone,
+
+We are sad to announce that this project will no longer be in development and will be discontinued.
+
+There was several reasons behind these decisions:
+* Lack of features to manage the mod collection (for example changelog feature is missing, so they won't know what was changed if we continue making changes)
+* Steam Workshop forcing users to download by using Steam platform, making it Steam exclusive content which is against our standards and project vision
+* Valve became hostile towards community and made steam workshop downloader tool shut down
+
+The reason is mostly focused on Valve's behavior.
+
+We want to say one thing to players using our modpack: If you think 'ease of use' is the best option, please consider thinking one more time. It was hell for making something using steam platform.
+
+So unfortunately, this project will be discontinued and all mod collections will be private from now on.
 
 # EnhancedMod Forgery
 EnhancedMod Forgery is a group of Steam Workshop based modpack project developed by Mystic Moonlight and community contributors.
